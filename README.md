@@ -35,8 +35,9 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, we clean and process the data
 
 ---
 
-## 📂 Repository Structure
+## 📂 Project Link
+https://github.com/saurabhkr0001/Flight-Price-Analytics/blob/main/Flight%20price%20analytics%20%20new.ipynb
 
 
-*(Add your charts or screenshots here)*  
+
 
